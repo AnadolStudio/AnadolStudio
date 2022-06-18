@@ -6,7 +6,7 @@
 
 ## Стек:
 - **Языки** : Java, Kotlin;<br>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnadolStudio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnadolStudio&theme=dark)]<br>
 - **VCS** : Git;<br>
 - **Базы данных** : Room, SQLite;<br>
 - **Многопоточность** : RxJava2, Kotlin coroutines;<br>
@@ -32,12 +32,12 @@
 
 ## Личные проекты, над которыми я работаю в свободное время:
 - **Фоторедактор Adelaide** <br>  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=Adelaide&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=Adelaide&theme=dark)](https://github.com/AnadolStudio/Adelaide)
 <br>  
 
 - **Приложение для изучения мнемотехники Mind Palace** <br>  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=MindPalace&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=MindPalace&theme=dark)](https://github.com/AnadolStudio/MindPalace)
 <br>  
 
 - **Приложение для подсчета времени Chronos** <br>  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=Chronos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=Chronos&theme=dark)](https://github.com/AnadolStudio/Chronos)
