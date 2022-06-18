@@ -11,7 +11,7 @@
 - **Базы данных** : Room, SQLite;<br>
 - **Многопоточность** : RxJava2, Kotlin coroutines;<br>
 - **Архитектуры** : MVVM, MVI, MVP;<br>
-- **DI** : Dagger2;<br>
+- **DI** : Dagger2.<br>
 
 <br>
 
