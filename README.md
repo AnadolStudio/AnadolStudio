@@ -6,7 +6,7 @@
 
 ## Стек:
 - **Языки** : Java, Kotlin;<br>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnadolStudio&theme=dark)]<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnadolStudio&theme=dark)<br>
 - **VCS** : Git;<br>
 - **Базы данных** : Room, SQLite;<br>
 - **Многопоточность** : RxJava2, Kotlin coroutines;<br>
