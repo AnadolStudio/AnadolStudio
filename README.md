@@ -34,7 +34,6 @@
 
 - **Приложение для изучения мнемотехники Mind Palace** <br>  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=MindPalace&theme=dark)](https://github.com/AnadolStudio/MindPalace)
-<br>  
 
 - **Приложение для подсчета времени Chronos** <br>  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=Chronos&theme=dark)](https://github.com/AnadolStudio/Chronos)
