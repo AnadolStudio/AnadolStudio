@@ -22,11 +22,7 @@
 
 ## Личная статистика:
 [![codewars](https://www.codewars.com/users/Anadol/badges/large)](https://www.codewars.com/users/Anadol)<br>    
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
 
-<br>
-
-## Активность:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnadolStudio&theme=solarized_dark)
 <br>
 
