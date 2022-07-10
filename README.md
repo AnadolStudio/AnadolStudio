@@ -25,7 +25,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnadolStudio&theme=nord_dark)<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnadolStudio&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=315,003761,075EB6&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnadolStudio&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=315,003761,075EB6&title_color=FFFFFF&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ## Личные проекты, над которыми я работаю в свободное время:
 
