@@ -6,7 +6,7 @@
 
 ## Стек:
 - **Языки** : Java, Kotlin;<br>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnadolStudio&theme=dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnadolStudio&theme=github_dark&bg_color=315,003761,075EB6&title_color=FFFFFF)<br>
 - **VCS** : Git;<br>
 - **Базы данных** : Room, SQLite;<br>
 - **Многопоточность** : RxJava2, Kotlin coroutines;<br>
@@ -23,17 +23,18 @@
 ## Личная статистика:
 [![codewars](https://www.codewars.com/users/Anadol/badges/large)](https://www.codewars.com/users/Anadol)<br>    
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnadolStudio&theme=solarized_dark)
-<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnadolStudio&theme=github_dark)<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnadolStudio&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=315,003761,075EB6&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ## Личные проекты, над которыми я работаю в свободное время:
 
 - **Приложение для изучения мнемотехники Mind Palace** <br>  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=MindPalace&theme=dark)](https://github.com/AnadolStudio/MindPalace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=MindPalace&theme=github_dark&bg_color=315,003761,075EB6&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/MindPalace)
 
 - **Приложение для подсчета времени Chronos** <br>  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=Chronos&theme=dark)](https://github.com/AnadolStudio/Chronos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=Chronos&theme=github_dark&bg_color=315,003761,075EB6&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/Chronos)
 
 - **Фоторедактор Adelaide** <br>  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=Adelaide&theme=dark)](https://github.com/AnadolStudio/Adelaide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=Adelaide&theme=github_dark&bg_color=315,003761,075EB6&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/Adelaide)
 <br>  
