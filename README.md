@@ -16,7 +16,7 @@
 <br>
 
 ## Контакты
-<a name="telegram" href="https://t.me/idrolal"><img width="50px" src="https://img.icons8.com/color/344/telegram-app--v1.png"/></a>
+<a name="telegram" href="https://t.me/anadol1"><img width="50px" src="https://img.icons8.com/color/344/telegram-app--v1.png"/></a>
 
 <br>
 
