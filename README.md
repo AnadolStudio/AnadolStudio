@@ -56,4 +56,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=AndroidCurvesToolView&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/AndroidCurvesToolView)
 <br>  
 
-![Screenshot_1660412002](https://user-images.githubusercontent.com/74777850/184520001-1f966ff0-24f9-4d72-bc60-831b842d2926.png) 
+![Screenshot_1660412002](https://user-images.githubusercontent.com/74777850/184542546-54ceff22-a31a-43fe-a042-e772007e94ee.png)
+
