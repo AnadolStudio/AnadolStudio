@@ -27,7 +27,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnadolStudio&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=315,003761,277DD3&title_color=FFFFFF&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-## Личные проекты, над которыми я работаю в свободное время:
+# Личные проекты, над которыми я работаю в свободное время:
 <br>  
 
 ### 1) Mind Palace - приложение для изучения мнемотехники Mind Palace <br>  
@@ -43,4 +43,12 @@
 
 ### 3) Encoder - утилита для кодирования текста <br>  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=Encoder&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/Encoder)
+<br>  
+
+# Библиотеки:
+<br> 
+
+### 1) AndroidCurvesToolView - компонент для редактирования фотографии <br>  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=AndroidCurvesToolView&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/AndroidCurvesToolView)
 <br>  
