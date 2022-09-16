@@ -32,7 +32,7 @@
 # Личные проекты, над которыми я работаю в свободное время:
 <br>  
 
-### 1) Mind Palace - приложение для изучения мнемотехники Mind Palace [(Google Play)](https://play.google.com/store/apps/details?id=com.anadol.mindpalace) <br>  
+### 1) Mind Palace - приложение для изучения мнемотехники Mind Palace ([Google Play)](https://play.google.com/store/apps/details?id=com.anadol.mindpalace)) <br>  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=MindPalace&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/MindPalace)
 
 ### 2) Chronos - приложение для подсчета времени <br>  
