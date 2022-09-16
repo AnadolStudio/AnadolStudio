@@ -57,4 +57,5 @@
 <br>  
 ![Screenshot_1660412002](https://user-images.githubusercontent.com/74777850/184542546-54ceff22-a31a-43fe-a042-e772007e94ee.png)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnadolStudio&repo=PhotoEditorCore&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/PhotoEditorCore)
+<br>  
