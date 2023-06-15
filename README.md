@@ -6,7 +6,7 @@
 
 ## Стек:
 - **Языки** : Java, Kotlin;<br>  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnadolStudio&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF)<br>
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnadolStudio&theme=react)<br>
 - **VCS** : Git;<br>
 - **Базы данных** : Room, SQLite;<br>
 - **Многопоточность** : RxJava2, Kotlin coroutines;<br>
@@ -23,10 +23,12 @@
 ## Личная статистика:
 [![codewars](https://www.codewars.com/users/Anadol/badges/large)](https://www.codewars.com/users/Anadol)<br>    
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnadolStudio&theme=nord_dark)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnadolStudio&theme=react)<br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnadolStudio&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnadolStudio&theme=react&utcOffset=8)
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnadolStudio&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=315,003761,277DD3&title_color=FFFFFF&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br>
-
+-->
 <br> 
 
 # Личные проекты, над которыми я работаю в свободное время:
