@@ -25,7 +25,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnadolStudio&theme=react)<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnadolStudio&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnadolStudio&theme=react&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnadolStudio&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnadolStudio&theme=react&utcOffset=2)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnadolStudio&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=315,003761,277DD3&title_color=FFFFFF&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br>
 -->
