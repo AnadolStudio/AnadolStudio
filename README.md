@@ -1,6 +1,6 @@
 # Привет! Я - Богдан  
 ### Аndroid developer <img align="left" width="30px" src="./src/icons8-android-os-48.png/">
-Занимаюсь разработкой с 2019 года.
+Занимаюсь разработкой с 2020 года.
 <br>
 <br>
 
