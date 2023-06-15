@@ -16,7 +16,9 @@
 <br>
 
 ## Контакты
-<a name="telegram" href="https://t.me/anadol1"><img width="50px" src="https://img.icons8.com/color/344/telegram-app--v1.png"/></a>
+
+<a name="telegram" href="https://t.me/anadol1"><img width="50px" src="https://img.icons8.com/color/344/telegram-app--v1.png"/></a> 
+<a name="gmail" href="anadol.incorp@gmail.com"> <img width="45px" src="https://img.icons8.com/fluency/344/gmail-new.png"/></a><br>
 
 <br>
 
