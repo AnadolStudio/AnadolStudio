@@ -42,15 +42,19 @@
 ### 2) Chronos - приложение для подсчета времени <br>  
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnadolStudio&repo=Chronos&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/Chronos)
 
+### 3) TicTacToe - меленькое приложение для игры в крестики-нолики <br>  
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnadolStudio&repo=Encoder&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/TicTacToe)
+<br>
+
 <!--### 3) Adelaide - фоторедактор <br>  
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnadolStudio&repo=Adelaide&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/Adelaide)
 <br>
 -->
 
-### 3) Encoder - утилита для кодирования текста <br>  
+<!--### 3) Encoder - утилита для кодирования текста <br>  
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnadolStudio&repo=Encoder&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/Encoder)
-
-<br>  
+<br>
+-->
 
 # Мои библиотеки:
 <br> 
