@@ -42,8 +42,8 @@
 ### 2) Chronos - приложение для подсчета времени <br>  
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnadolStudio&repo=Chronos&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/Chronos)
 
-### 3) TicTacToe - меленькое приложение для игры в крестики-нолики <br>  
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnadolStudio&repo=Encoder&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/TicTacToe)
+### 3) TicTacToe - крестики-нолики, проект создавался для лекции в [ПРОСТО](https://www.prostospb.team/coworking/karpovka) <br>  
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AnadolStudio&repo=TicTacToe&theme=github_dark&bg_color=315,003761,277DD3&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/AnadolStudio/TicTacToe)
 <br>
 
 <!--### 3) Adelaide - фоторедактор <br>  
