@@ -8,7 +8,7 @@
 - **Языки** : Java, Kotlin;<br>  
 - **VCS** : Git;<br>
 - **Работа с данными** : Room, SQLite; Data Store, Shared Preference, Content Provider<br>
-- **Многопоточность** : RxJava2, Kotlin coroutines;<br>
+- **Многопоточность** : RxJava2, Kotlin coroutines, Flow;<br>
 - **Архитектуры** : Clean Architecture, MVVM, MVI, MVP;<br>
 - **Навигация** : Jetpack Navigation, Cicirone, Compose Navigation;<br>
 - **UI** : Android xml; Jetpack Compose<br>
